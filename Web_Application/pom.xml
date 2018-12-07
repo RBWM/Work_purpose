@@ -8,6 +8,7 @@
   <name>sampleweb Maven Webapp</name>
   <!--url>http://maven.apache.org</url-->
     <!--url>http://maven.apache.org</url-->
+	<!--SADSP_5_FIX-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
