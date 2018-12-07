@@ -32,7 +32,7 @@
   
   </distributionManagement>
   
-  
+  <!--url>http://maven.apache.org</url-->
   <build>
     <finalName>sampleweb</finalName>
   </build>
